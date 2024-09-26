@@ -1,0 +1,17 @@
+#TIPOS DE DATOS
+
+# INT: numeros enteros (1,5,-3,123)
+# FLOAT or DOOBLE: numeros decimales (1.5,3.5,6.3)
+# CHAR: caracteres (a,?,#,*) SIEMPRE se encierran en comilla simple 
+# STRING: texto conjuntos de caracteres (hola, Once, 0) SIEMPRE en comillas dobles, todo lo que esté
+#         en comillas dobles es texto.
+# BOOL: binario (true, false,1,0)
+
+# VARIABLES las variables son espacios en memoria donde se almacena un solo tipo de datos 
+# se define la variable, ej: X = "1"
+x = 1
+z = 3
+#print es una fx que nos sirve para mostrar algo al usuario
+igual = 3-1
+# concatenar es mostrar en una sola linea lo que se quiera mostrar
+print(f"el resultado es: {igual}")
